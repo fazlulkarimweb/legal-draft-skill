@@ -1,6 +1,6 @@
-# Legal Drafting Skills
+# Legal Drafting Skills ⚖️🚀
 
-A comprehensive collection of 24 specialized legal drafting skills for the Claude, Gemini CLI, ChatGpt and other AI agents. This repository provides structured instructions, procedural knowledge, and domain-specific guidance for drafting a wide range of legal documents.
+A comprehensive collection of 24 specialized legal drafting skills for the Gemini CLI, Claude, ChatGPT, and other AI agents.
 
 ---
 
@@ -10,8 +10,21 @@ If you want to use the **Legal Draft Agent** with all these skills preloaded and
 
 ---
 
-## 📂 Project Structure
+## ⚖️ Why Legal Draft Skill?
 
+If you’ve ever tried using standard AI models for complex legal drafting, you already know the problem: **Standard chat prompts just won’t cut it.**
+
+Whether it’s a Corporate Bylaw, an LLC Operating Agreement, or a Motion for Summary Judgment, legal drafting requires precision, structure, and specialized context. General-purpose models often lack the specific procedural guardrails needed to produce professional-grade legal documents.
+
+**Legal Draft Skill** transforms your chatbot into a professional-grade legal draft generator by providing:
+- **Precision:** Specialized instructions that enforce strict legal formatting and structure.
+- **Context:** Domain-specific knowledge for 24 different types of legal documents.
+- **Portability:** Use them in your CLI, Claude Projects, or Custom GPTs.
+
+Best of all? It’s completely **Free, Open Source, and MIT Licensed.** 💻✨
+
+## 📂 Project Structure
+...
 The repository uses a **Master Skill** architecture with a Progressive Disclosure pattern.
 
 ```text
