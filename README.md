@@ -4,6 +4,11 @@ A comprehensive collection of 24 specialized legal drafting skills for the Gemin
 
 ---
 
+### 📺 Explainer Video and Post
+👉 **[Click here to see the explainer video](https://www.linkedin.com/posts/fazlulkarimweb_opensource-legaltech-generativeai-ugcPost-7462448646828068864-0jFO)**
+
+---
+
 ### 🚀 Quick Start: Legal Draft Agent
 If you want to use the **Legal Draft Agent** with all these skills preloaded and the ability to add skills dynamically from your prompt, visit:
 👉 **[Legal Draft Agent](https://github.com/fazlulkarimweb/legal-draft-agent)**
@@ -22,6 +27,8 @@ Whether it’s a Corporate Bylaw, an LLC Operating Agreement, or a Motion for Su
 - **Portability:** Use them in your CLI, Claude Projects, or Custom GPTs.
 
 Best of all? It’s completely **Free, Open Source, and MIT Licensed.** 💻✨
+
+---
 
 ## 📂 Project Structure
 ...
